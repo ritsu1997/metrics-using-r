@@ -6,6 +6,8 @@ book:
   title: "Microeconometrics Using R"
   author: "Ritsu Kitagawa"
   date: "5/30/2022"
+  repo-url: https://github.com/ritsu1997/metrics-using-r
+  repo-actions: [source, edit, issue]
   chapters:
     - index.qmd
     - intro.qmd
