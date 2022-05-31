@@ -4,5 +4,5 @@
 
 ***Microeconometrics Using R*** aims to be a comprehensive textbook on R programming for applied microeconometrics. 
 The book teaches readers how to run a specific method they want in an accessible and practical manner. It simply provides you with one or more coding solutions to your implementation task for various econometric methods. 
-The intended readers are professional empirical economists, graduate students in economics, and econ-based data scientists working in the industry. 
+The intended readers include professional empirical economists, graduate students in economics, and econ-based data scientists working in the industry, as well as researchers in other fields of social sciences.
 The book is open-source, and the author appreciates any suggestions, feedback, and contributions via [GitHub](https://github.com/ritsu1997/metrics-using-r).
