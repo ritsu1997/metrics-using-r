@@ -8,9 +8,10 @@ book:
   date: "5/30/2022"
   repo-url: https://github.com/ritsu1997/metrics-using-r
   repo-actions: [source, edit, issue]
+  google-analytics: "G-PEEHJ8EEY1"
   chapters:
     - index.qmd
-    - intro.qmd
+    - preface.qmd
     - summary.qmd
     - references.qmd
 
